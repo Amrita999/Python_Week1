@@ -1,0 +1,8 @@
+
+    	 	 **********   Sunway billing  ************
+    Customer id : 123 	 Customer Address : Baglung
+    Customer Phone : Amrita@gmail.com
+    
+    Total Price : 8800 	 Discounted : 590.0
+    After Discount : 8210.0
+    

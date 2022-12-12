@@ -1,0 +1,8 @@
+
+    	 	 **********   Sunway billing  ************
+    Customer id : 456 	 Customer Address : Baglung
+    Customer Phone : Reeta@gmail.com
+    
+    Total Price : 50 	 Discounted : 2.5
+    After Discount : 47.5
+    

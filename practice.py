@@ -77,8 +77,15 @@
 
 
 
-
-
+# Slicing
+String1 = "The brown fox jump over a lazy dog"
+print(String1.strip())
+print("\nSlicing characters from 3-12: ")
+print(String1[3:12])
+print(String1[-1])
+print(String1[3:-2])
+print(String1[::-1])
+print(String1.strip())
 
 
 
